@@ -10,7 +10,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/Vencord/Vesktop/releases/download/v0.3.3/Vesktop-0.3.3-win.zip",
-            "hash": "sha1:45f56c63a018641f2f9ff6308867e497a24d5885"
+            "hash": "sha1:5b96f13dea6a561fbb70b5a16daadb2de1c83257"
         }
     },
     "shortcuts": [
