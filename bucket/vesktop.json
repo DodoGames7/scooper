@@ -1,5 +1,5 @@
 {
-    "version": "0.4.0",
+    "version": "0.4.1",
     "description": "Vesktop is a cross platform desktop app aiming to give you a snappier Discord experience with Vencord pre-installed",
     "homepage": "https://github.com/Vencord/Vesktop",
     "license": "GPL-3.0",
@@ -9,8 +9,8 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Vencord/Vesktop/releases/download/v0.4.0/Vesktop-0.4.0-win.zip",
-            "hash": "8e42d491d452c235fd7b5720e8ff2b1a1821ae1498f0ead3b0283ee199b8442b"
+            "url": "https://github.com/Vencord/Vesktop/releases/download/v0.4.1/Vesktop-0.4.1-win.zip",
+            "hash": "6f764ccd33baad0ec51ba75d11239b0044933618d52c82c86c7b4526a39e92fc"
         }
     },
     "shortcuts": [
