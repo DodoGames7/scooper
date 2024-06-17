@@ -5,5 +5,5 @@ My own scoop bucket! Nothing interesting here
 
 ```pwsh
 scoop bucket add DodoGames7_scooper https://github.com/DodoGames7/scooper
-scoop install DodoGames7/<app included>
+scoop install DodoGames7/<app included> # example: scoop install DodoGames7_scooper/vesktop
 ```
